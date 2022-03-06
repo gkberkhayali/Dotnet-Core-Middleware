@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a2dd4cc-ed05-44f4-96dc-6412af0afc8c": {
+      "ProjectGuid": "1a2dd4cc-ed05-44f4-96dc-6412af0afc8c",
+      "DisplayName": "MiddlewarePoC",
+      "ColorIndex": 0
+    },
+    "549c1e95-ad85-4105-82cd-538362bba027": {
+      "ProjectGuid": "549c1e95-ad85-4105-82cd-538362bba027",
+      "DisplayName": "MiddleWareWebApi",
+      "ColorIndex": 1
+    },
+    "2fc93feb-c97c-4fd3-ac95-6eaaef4807a4": {
+      "ProjectGuid": "2fc93feb-c97c-4fd3-ac95-6eaaef4807a4",
+      "DisplayName": "HSBC",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

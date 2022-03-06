@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Fape6MeHLrwLNx60Bd+fpurRliwYdSaTGDCtcFxo4p8H9XbjvrVn6oM5lEsJ7O8k4aU/XGkol74Hpr5HQBcJg==",
+  "success": true,
+  "projectFilePath": "C:\\Github\\Dotnet-Core-Middleware\\MiddleWareWebApi\\MiddleWareWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gokbe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

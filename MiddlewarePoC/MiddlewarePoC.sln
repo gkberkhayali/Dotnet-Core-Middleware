@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewarePoC", "MiddlewarePoC.csproj", "{1A2DD4CC-ED05-44F4-96DC-6412AF0AFC8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleWareWebApi", "..\MiddleWareWebApi\MiddleWareWebApi.csproj", "{549C1E95-AD85-4105-82CD-538362BBA027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2DD4CC-ED05-44F4-96DC-6412AF0AFC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2DD4CC-ED05-44F4-96DC-6412AF0AFC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2DD4CC-ED05-44F4-96DC-6412AF0AFC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2DD4CC-ED05-44F4-96DC-6412AF0AFC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{549C1E95-AD85-4105-82CD-538362BBA027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549C1E95-AD85-4105-82CD-538362BBA027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549C1E95-AD85-4105-82CD-538362BBA027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549C1E95-AD85-4105-82CD-538362BBA027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B31B0F6-8228-4FB7-A3F4-6C40AC19DC9E}
+	EndGlobalSection
+EndGlobal
